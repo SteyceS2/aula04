@@ -1,0 +1,16 @@
+package aulasAD5;
+
+public enum mes {
+JANEIRO,
+FEVEREIRO,
+MARÇO,
+ABRIL,
+MAIO,
+JUNHO,
+JULHO,
+AGOSTO,
+SETEMBRO,
+OUTUBRO,
+NOVEMBRO,
+DEZEEMBRO;
+}
